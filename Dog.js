@@ -1,3 +1,3 @@
 function Dog() {
-    console.log("this is some dog");
+    console.log("this is a dog");
 }
